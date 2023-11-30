@@ -1,2 +1,3 @@
 hello! my name is lee!
-i am good at linux!
+i am learning  linux!
+i am also learning pytorch!
